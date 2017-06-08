@@ -30,8 +30,7 @@ h2#subs {
 
 }
 
-h3,
-#copyright {
+h3 {
 
 font-size: 21px;
 font-weight: normal;
@@ -41,6 +40,9 @@ color: gray;
 
 #copyright {
 
+  font-size: 21px;
+  font-weight: normal;
+  color:gray;
   text-align: right;
-  
+
 }
